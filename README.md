@@ -4,34 +4,23 @@
 
 This repository contains documentation, configuration files and scripts used in its planning/deploying.
 
-## System Configuration
-
-- Audio: PipeWire
-- Kernel: Xanmod
-- Wired/Wireless: iwd
-- Secondary PacMan: FlatPak
-
 ## Desktop Enviroviment
 
-- Protocol: Xorg
-- WM: bspwm
+- WM: hyprland
 - Hotkey: sxhkd
-- Bar: polybar
-- Launcher: rofi
-- Compositor: picom
+- Bar: eww
+- Launcher: eww
 - Notifications: dunst
-- LockScreen: i3-lock
-- TypeFaces:
-    - Code: Fira Code
-    - Normal: Ubuntu
-    - Title: Oswald
-    - Icon: Segoe Fluent
-- Color Scheme: snazzy-base16
+- LockScreen: waylock
 
 ## Desktops apps
 
-- VCS: git
-- Dev. Tool Manager: asdf
-- Music: mpd+ncmpdpp
-- Video: mpv
-- RSS: canto
+- Shell: Zsh
+- Editor: Neovim + NvChad
+- Tool Management: ASDF
+- Music Player: MPD + NCMPCPP
+- Video Player: MPV
+- Web Browser: Firefox + Brave
+- Art: Krita + Pixelorama
+- Modeling: Blender
+- Streaming & Recording: OBS
