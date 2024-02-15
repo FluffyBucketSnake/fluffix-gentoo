@@ -1,0 +1,6 @@
+# Using GRUB2 as bootloader.
+sys-boot/grub:2 mount
+
+# Show Zen3 compilation option
+sys-kernel/gentoo-sources experimental
+

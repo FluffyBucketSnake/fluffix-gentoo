@@ -1,0 +1,7 @@
+# Shell
+app-shells/zsh doc
+app-misc/tmux vim-syntax
+
+# Monitoring
+sys-process/bottom gpu
+

@@ -1,0 +1,22 @@
+# Filesystem tools
+sys-fs/btrfs-progs doc
+sys-fs/android-file-transfer-linux fuse
+
+# Audio & screen capture framework
+media-video/pipewire doc echo-cancel extra gstreamer jack-sdk pipewire-alsa sound-server
+
+# Graphics
+media-libs/mesa vaapi vulkan-overlay
+
+# Network manager
+net-wireless/iwd client monitor
+
+# Bluetooth
+net-wireless/bluez deprecated doc experimental extra-tools
+
+# Codecs
+media-video/ffmpeg opus vpx gme
+
+# Virtualization & Containerization
+app-emulation/qemu aio bpf bzip2 capstone curl doc fdt filecaps fuse gnutls infiniband io-uring jpeg lzo ncurses nfs nls numa opengl pin-upstream-blobs plugins png pulseaudio python sdl sdl-image seccomp snappy spice udev usb vhost-net virtgl virtfs xattr zstd
+app-emulation/libvirt qemu

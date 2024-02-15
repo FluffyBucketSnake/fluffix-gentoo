@@ -1,0 +1,7 @@
+# Tools
+dev-util/vulkan-tools cube -wayland
+dev-build/ninja doc
+
+# Libraries
+media-libs/libsdl2 gles2
+

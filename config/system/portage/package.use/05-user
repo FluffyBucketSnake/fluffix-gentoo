@@ -1,0 +1,11 @@
+# Media Players
+media-sound/mpd curl doc expat ffmpeg fifo flac gme id3tag openmpt opus pipewire qobuz sid soundcloud vorbis wildmidi
+media-sound/mpc doc
+media-sound/ncmpcpp clock lto outputs taglib visualizer
+media-video/mpv doc drm pulseaudio
+
+# Secrets
+app-admin/keepassxc autotype browser
+
+# Readers
+app-text/zathura-meta pdf postscript
