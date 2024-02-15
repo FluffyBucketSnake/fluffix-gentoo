@@ -1,0 +1,9 @@
+# Eww and Hyprland are locally installed
+
+# Notifications
+x11-misc/dunst
+
+# Terminal
+x11-terms/kitty
+x11-terms/kitty-terminfo
+

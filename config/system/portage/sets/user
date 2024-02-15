@@ -1,0 +1,28 @@
+# Media Players
+media-sound/mpd
+media-sound/mpc
+media-sound/ncmpcpp
+media-video/mpv
+
+# Messaging
+net-im/discord
+
+# Browsers
+www-client/brave-bin
+www-client/firefox-bin
+
+# Office
+app-office/onlyoffice-bin
+
+# App Manager
+sys-apps/flatpak
+
+# Sync
+net-p2p/syncthing
+
+# Secrets
+app-admin/keepassxc
+
+# Readers
+app-text/zathura-meta
+

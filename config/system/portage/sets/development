@@ -1,0 +1,5 @@
+# Configuration Manager
+dev-vcs/git
+
+# Build Tools
+dev-build/ninja
