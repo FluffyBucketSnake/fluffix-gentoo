@@ -1,0 +1,19 @@
+# Filesystem Tools
+sys-fs/btrfs-progs
+sys-fs/android-file-transfer-linux
+
+# Graphics
+media-libs/mesa
+
+# Network
+net-wireless/iwd
+net-wireless/bluez
+
+# Media
+media-video/pipewire
+media-video/ffmpeg
+
+# Containerization & Virtualization
+app-containers/docker
+app-emulation/qemu
+app-emulation/libvirt

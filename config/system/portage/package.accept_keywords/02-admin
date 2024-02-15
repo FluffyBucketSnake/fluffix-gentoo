@@ -1,0 +1,16 @@
+# Shell
+app-shells/zsh
+app-misc/tmux
+
+# Editor
+app-editors/neovim
+
+# Configuration Manager
+dev-vcs/git
+
+# Monitoring
+sys-process/bottom
+
+# Automation
+dev-build/make
+
