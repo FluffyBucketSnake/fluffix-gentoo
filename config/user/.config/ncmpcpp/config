@@ -1,0 +1,3 @@
+visualizer_type = wave_filled
+visualizer_autoscale = yes
+visualizer_spectrum_smooth_look = yes
